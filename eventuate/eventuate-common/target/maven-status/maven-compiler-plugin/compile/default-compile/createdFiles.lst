@@ -1,0 +1,4 @@
+com/vicente/eventuate/common/events/ApplicationEvent.class
+com/vicente/eventuate/common/controller/BaseController.class
+com/vicente/eventuate/common/model/ResourceWithUrl.class
+com/vicente/eventuate/common/events/ApplicationCompletedEvent.class

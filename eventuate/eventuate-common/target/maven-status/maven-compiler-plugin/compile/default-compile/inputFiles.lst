@@ -1,0 +1,4 @@
+/home/vicente/development/sandbox/eventuate-common/src/main/java/com/vicente/eventuate/common/controller/BaseController.java
+/home/vicente/development/sandbox/eventuate-common/src/main/java/com/vicente/eventuate/common/events/ApplicationCompletedEvent.java
+/home/vicente/development/sandbox/eventuate-common/src/main/java/com/vicente/eventuate/common/model/ResourceWithUrl.java
+/home/vicente/development/sandbox/eventuate-common/src/main/java/com/vicente/eventuate/common/events/ApplicationEvent.java
